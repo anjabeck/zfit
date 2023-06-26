@@ -27,6 +27,7 @@ Experimental
 
 Requirement changes
 -------------------
+- removed tensorflow-addons dependency (deprecated and not on conda-forge)
 
 Thanks
 ------
